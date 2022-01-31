@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="CSS_position:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>CSS_position</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="CSS_position-1.0.war">
+      <element id="artifact" artifact-name="CSS_position:war exploded" />
+    </root>
+  </artifact>
+</component>
